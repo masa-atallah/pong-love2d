@@ -47,7 +47,7 @@ I added a feature that allows players to start the game by pressing the Space ke
 
 ## Game Demo
 
-[Watch the Pong Game Demo](demo/game-demo.mp4)
+[Watch the Pong Game Demo](demo/game-demo2.mp4)
 
 ## Technologies Used
 - Lua
